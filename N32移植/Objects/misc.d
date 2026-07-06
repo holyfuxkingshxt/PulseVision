@@ -1,0 +1,28 @@
+./objects/misc.o: firmware\n32g4fr_std_periph_driver\src\misc.c \
+  firmware\n32g4fr_std_periph_driver\inc\misc.h \
+  firmware\CMSIS\device\n32g4fr.h firmware\CMSIS\core\core_cm4.h \
+  firmware\CMSIS\device\system_n32g4fr.h \
+  firmware\CMSIS\device\n32g4fr_conf.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_adc.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_bkp.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_can.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_crc.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_dac.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_dbg.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_dma.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_dvp.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_exti.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_flash.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_gpio.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_i2c.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_iwdg.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_pwr.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_qspi.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_rcc.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_rtc.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_sdio.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_spi.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_tim.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_usart.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_wwdg.h \
+  firmware\n32g4fr_std_periph_driver\inc\n32g4fr_tsc.h
